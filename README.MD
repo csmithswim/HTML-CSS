@@ -1,0 +1,1 @@
+This repo contains HTML/CSS fundamentals to help refresh myself while I learn more about React, Redux and other front end frameworks/libraries/technologies.
