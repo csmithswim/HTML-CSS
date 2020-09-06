@@ -40,3 +40,8 @@
     top: 10px;
     left: 10px;
   }
+  .example {
+    display: flex;
+    justify-content: flex-start;  /* Update this */
+    /* ... */
+  }
