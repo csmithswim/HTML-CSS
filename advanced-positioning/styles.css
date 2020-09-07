@@ -45,3 +45,6 @@
     justify-content: flex-start;  /* Update this */
     /* ... */
   }
+  .absolute {
+    position: relative;
+  }
